@@ -1,0 +1,264 @@
+body 
+{
+	text-align: justify;
+}
+
+div.container-fluid 
+{
+	padding: 0px 0px;
+}
+
+.navbar .navbar-nav 
+{
+	display: inline-block;
+	float: none;
+	vertical-align: top;
+	font-weight: bold;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+nav.navbar-default
+{
+	margin: 0px 0px;
+	padding: 0px 0px;
+	border: none;
+	border-radius: 0px;
+	background-color: transparent;
+}
+
+nav.navbar-default .navbar-nav>li>a 
+{
+	color: white;
+	padding: 20px 20px;
+}
+
+nav.navbar-default .navbar-nav>li>a:hover, nav.navbar-default .navbar-nav>li>a:active 
+{
+	color: #d6a982;
+	background-color: transparent;
+	border-bottom: 2px solid #204060;
+}
+
+.dropdown-menu 
+{
+	opacity: 0.7;
+	margin: auto;
+	text-align: center;
+}
+
+img#logo 
+{
+	max-width: 40px;
+	margin: 20px 30px;
+}
+
+.navbar-nav>li>a>img.flag 
+{
+	max-width: 40px;
+}
+
+div.beginning 
+{
+	background-image: url("../img/teach.jpg");
+	background-size: cover;
+	color: white;
+}
+
+div.contacting 
+{
+	background-image: url("../img/contacts.jpg");
+	background-size: cover;
+	color: #750c2a;
+}
+
+div.location
+{
+	background-image: url("../img/map.jpeg");
+	background-size: cover;
+	color: #2c4772;
+}
+
+.row
+{
+	margin-right: 0;
+	margin-left: 0;
+}
+
+div#intro
+{
+	text-align:center;
+	margin-top: 80px;
+	margin-bottom: 100px;
+
+}
+
+div#intro>h1 
+{
+	font-size: 38px;
+	font-weight: bold;
+
+}
+
+div#intro>p 
+{
+	font-size: 15px;
+	font-weight: bold;
+
+}
+
+button.btn 
+{
+	margin-bottom: 100px;
+	margin-top: 50px;
+	padding: 15px 20px;
+	background-color: #204060;
+	color: white;
+	font-size: 16px;
+	font-weight: bold;
+	border: none;
+}
+
+.center 
+{
+	text-align: center;
+}
+
+.firsty
+{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+i.gly
+{
+	font-size:80px; 
+	color:#204060;
+	display: block; 
+	text-align:center;"
+}
+
+div.secondy
+{
+	background-color: #f2f2f2;
+}
+
+div.secondy>section>ul>li
+{
+	padding: 10px;
+}
+
+img 
+{
+	margin: 5px;
+}
+
+ul.iconlist 
+{
+	list-style-type: none;
+}
+
+div.thirdy 
+{
+	padding: 10px;
+}
+
+div.thirdy>section>ul.iconlist>li
+{
+	padding-top: 15px;
+}
+
+i.listitem 
+{
+	font-size: 16px;
+}
+
+div.newsletter 
+{
+	color: white;
+	background-color: #2d5986;
+}
+
+#iconik 
+{
+	max-width: 120px;
+}
+
+p.newsletterp 
+{
+	padding: 20px;
+}
+
+button.subscribe
+{
+	border: 1px solid black;
+	border-radius: none;
+	background-color: transparent;
+	font-weight: normal;
+}
+
+footer 
+{
+	background-color: black;
+	color: white;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+
+/*________________________Contacts________________________*/
+
+img.support 
+{
+	max-width:200px;
+	display: block;
+	margin: auto;
+}
+.support-grid
+{
+	padding: 20px;
+}
+
+h3
+{
+	text-align: center;
+}
+
+
+/* _____________________Checking availability__________________ */
+
+
+#select h1 {
+	text-align: center;
+	margin: 10px;
+}
+
+#select select {
+	padding: 20px 20px 22px 25px;
+	margin: auto;
+	display: block;
+	font-size: 22px;
+
+}
+
+#select input {
+	padding: 20px 55px 22px 55px;
+	margin: auto;
+	display: block;
+	font-size: 20px;
+	color: white;
+	background-color: black;
+}
+
+#select input:hover {
+	color: black;
+	background-color: #666768;
+}
+
+#select h3 {
+	padding: 20px 100px;
+}
